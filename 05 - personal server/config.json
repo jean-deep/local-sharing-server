@@ -1,0 +1,23 @@
+{
+  "port": 8080,
+  "passwordHash": "787adfb953bb7c6797ba2ccb04dbcff4:fee55450b946d8362022c5046860c2cab6a2c0978904f073ae546e71a2e7b9d27c0f6186cc9107832b6999e737e4c463fd55ad8b2828c0f22239ad6d54ee64fd",
+  "jwtSecret": "a7e2d7348e889491c338a893bcb50c6f8a9a1ed222f60b58b0396e137bc151cf",
+  "sharedPaths": [
+    {
+      "name": "Home Folder",
+      "path": "C:\\Users\\Windows 10"
+    },
+    {
+      "name": "Workspace",
+      "path": "C:\\Users\\Windows 10\\Downloads\\AI Assisted - Web Apps\\Google Antigravity\\05 - personal server"
+    },
+    {
+      "name": "grok",
+      "path": "C:\\Users\\Windows 10\\Downloads\\temp horde\\Grok"
+    },
+    {
+      "name": "Ptor",
+      "path": "C:\\Users\\Windows 10\\Downloads\\Ptorrent"
+    }
+  ]
+}
